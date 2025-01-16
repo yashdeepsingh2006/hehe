@@ -1,0 +1,10 @@
+SCM
+git status (complete status of present directory)
+
+
+initializing local repository-
+
+1) git init (creates local repository onto existing path, default branch is master)
+2) ls -a (shows hidden files too)
+3) git --commit
+4) git log (list of all commits )
