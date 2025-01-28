@@ -8,3 +8,10 @@ initializing local repository-
 2) ls -a (shows hidden files too)
 3) git --commit
 4) git log (list of all commits )
+
+5) echo (used for appending data)
+6) git diff (provides difference btw the commited source file and present source file)
+7) mkdir ( used for creating a folder in pwd)
+8)  echo "new file text" >> myfile.txt (creates a folder)
+
+
