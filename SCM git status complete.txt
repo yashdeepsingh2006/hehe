@@ -13,5 +13,9 @@ initializing local repository-
 6) git diff (provides difference btw the commited source file and present source file)
 7) mkdir ( used for creating a folder in pwd)
 8)  echo "new file text" >> myfile.txt (creates a folder)
+9) git show ( shows the history of repo)
+10) git diff --staged (shows last commit + staged files)
+11) git -rm --cached filename.txt (remove file at repo level)
+12) git restore filename.txt  ( restores a file ).
 
 
